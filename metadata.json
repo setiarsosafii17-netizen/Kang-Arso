@@ -1,0 +1,7 @@
+{
+  "name": "EXPONENT ADVENTURE: Petualangan di Dunia Eksponen",
+  "description": "Game 3D petualangan edukatif interaktif matematika untuk pembelajaran eksponen dan bilangan berpangkat di TV Interaktif, Tablet, dan Ponsel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
